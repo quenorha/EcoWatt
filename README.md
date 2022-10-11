@@ -1,5 +1,16 @@
 # EcoWatt
 Cette bibliothèque permet de Récupérer les informations du signal EcoWatt fournies par RTE. 
+
+<div style="text-align: center">
+<img src="images/Visualisation.png"
+     alt="visualisation"/>
+</div>
+
+<div style="text-align: center">
+<img src="images/FB.png"
+     alt="FB"/>
+</div>
+
 Créer un compte sur https://data.rte-france.com/catalog/-/api/consumption/Ecowatt/v4.0
 S'abonner à l'API EcoWatt. 
 Dans "mes applications", Cliquer sur Copier en base 64 pour récupérer l'identifiant. 
