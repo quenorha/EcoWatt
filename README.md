@@ -1,5 +1,5 @@
 # EcoWatt
-Cette bibliothèque permet de Récupérer les informations du signal EcoWatt fournies par RTE. 
+Cette bibliothèque CODESYS permet de récupérer les informations du signal EcoWatt fournies par RTE. 
 
 <div style="text-align: center">
 <img src="images/Visualisation.png"
